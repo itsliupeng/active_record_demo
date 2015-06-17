@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  service_id: 
+  user_id: 
+  price: 9.99
+  used_times: 1
+  total_times: 1
+
+two:
+  service_id: 
+  user_id: 
+  price: 9.99
+  used_times: 1
+  total_times: 1
